@@ -16,7 +16,7 @@ Installation and Setup
 Clone the repository:
 
 bash
-git clone https://github.com/YourUsername/Energy-Aware-CPU-Scheduling.git  
+git clone https://github.com/Prashant7086/Energy-Aware-CPU-Scheduling.git  
 cd Energy-Aware-CPU-Scheduling  
 Compile and run the C++ implementation:
 
